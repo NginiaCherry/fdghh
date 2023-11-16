@@ -98,5 +98,5 @@ advisories for dependencies used within your application.
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
 
 
-![image](https://github.com/NginiaCherry/fdghh/assets/102232856/6d7e876f-ff66-4de9-8464-7bea471160f9)
+
 
